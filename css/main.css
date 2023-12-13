@@ -16,8 +16,6 @@ body {
 	display: flex;
 	justify-content: center;
 	flex-flow: row wrap;
-	text-align: center;
-
 }
 
 h1,
@@ -86,7 +84,6 @@ header nav ul li {
 	font-weight: 700;
 	text-transform: uppercase;
 	padding: 10px 0;
-	width: 100%;
 }
 
 header nav ul li a {
@@ -127,10 +124,6 @@ header nav ul li a {
 .section-two,
 .section-three {
 	box-sizing: border-box;
-	padding: 0 40px;
-	text-align: left;	
-
-
 }
 
 .section-one {
@@ -161,15 +154,12 @@ header nav ul li a {
 
 .menu-list li {
 	color: #45610E;
-	font-size: 1em;
 	line-height: 36px;
-	font-size: 1rem;
 }
 
 /******** FOOTER STYLES ********/
 /* The widths are in a percentage! */
 footer {
-	text-align: center;
 	margin-top: 8px;
 	display: flex;
 	justify-content: center;
